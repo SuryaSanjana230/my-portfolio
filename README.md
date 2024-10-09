@@ -1,3 +1,4 @@
+![WhatsApp Image 2024-10-09 at 12 54 10](https://github.com/user-attachments/assets/e9a60bb4-c92d-46da-aa7f-7d1f475ec064)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
